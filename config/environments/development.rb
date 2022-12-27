@@ -78,6 +78,7 @@ Rails.application.configure do
   config.hosts.clear
 end
 
+#1章
 #「rails new meshiterro」実行
 #config/environments/development.rb内一番下のendの上に「config.hosts.clear」と記述
 #「rails g controller homes top」実行
